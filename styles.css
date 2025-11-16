@@ -71,7 +71,7 @@
 .product-description {
   max-height: 100px;
   font-weight: bolder;
-  overflow-y: auto;
+  overflow: scroll;
   font-size: 14px;
   font-family: "Italiana", sans-serif;
   font-weight: bolder;
